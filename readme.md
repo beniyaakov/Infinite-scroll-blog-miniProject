@@ -8,3 +8,5 @@ Display blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com) 
 - Fetch initial posts from API and display
 - Scroll down, show loader and fetch next set of posts
 - Add filtering for fetched posts
+
+#this project part of 20 Web Projects With Vanilla JavaScript by Brad Traversy
